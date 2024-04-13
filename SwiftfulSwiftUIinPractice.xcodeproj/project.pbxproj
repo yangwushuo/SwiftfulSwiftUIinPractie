@@ -79,7 +79,7 @@
 		96B183722BC7C159000E5E48 /* PlaylistHeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistHeaderCell.swift; sourceTree = "<group>"; };
 		96B183742BC7C9E0000E5E48 /* PlaylistDescriptionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistDescriptionCell.swift; sourceTree = "<group>"; };
 		96B183762BC7E80F000E5E48 /* SongRowCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongRowCell.swift; sourceTree = "<group>"; };
-		96B183782BC81D6D000E5E48 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		96B183792BC81EF2000E5E48 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +113,7 @@
 		96B183132BC55064000E5E48 = {
 			isa = PBXGroup;
 			children = (
+				96B183792BC81EF2000E5E48 /* README.md */,
 				96B1831E2BC55064000E5E48 /* SwiftfulSwiftUIinPractice */,
 				96B1832F2BC55065000E5E48 /* SwiftfulSwiftUIinPracticeTests */,
 				96B183392BC55065000E5E48 /* SwiftfulSwiftUIinPracticeUITests */,
@@ -139,7 +140,6 @@
 				96B183212BC55064000E5E48 /* ContentView.swift */,
 				96B183232BC55065000E5E48 /* Assets.xcassets */,
 				96B183252BC55065000E5E48 /* Preview Content */,
-				96B183782BC81D6D000E5E48 /* README.md */,
 			);
 			path = SwiftfulSwiftUIinPractice;
 			sourceTree = "<group>";
